@@ -2,6 +2,7 @@
 Ce projet propose un outil de classement basé sur un classement Elo applicable aux pilotes de course de drone français participant à la coupe de France de Drone Racing.
 
 # Classement en cours
+Mis a jour le 01 Juin 2024
 
 |#|ELO|LICENCE|PSEUDO|PRENOM|NOM DE FAMILLE|
 |:-|:-|:-:|:-:|:-:|:-:|
@@ -84,7 +85,7 @@ Ranking with 3 races min, K_FACTOR = 20 | USE_RACE_WEIGHT = False | USE_LOSS_LIM
 CURRENT RANKING with 3 race(s):
 |#|ELO|LICENCE|PSEUDO|PRENOM|NOM DE FAMILLE|
 |:-|:-|:-:|:-:|:-:|:-:|
-|01|1972|1401260| Darkex|Killian|ROUSSEAU|
+|01|1972|1401260|Darkex|Killian|ROUSSEAU|
 |02|1868|1700078|SUPER Ewen|Ewen|Goin|
 |03|1851|1603508|TRINX|Tristan|Goin|
 |04|1837|2102235|Avalt|Arthur|VALTIER|
@@ -103,7 +104,7 @@ CURRENT RANKING with 3 race(s):
 |17|1444|2301934|DRK|goin|stephane|
 |18|1407|2100578|U FPV|Pichon|Jules|
 |19|1391|1802030|20SY|Sylvain|Mogeny|
-|20|1374|2302181|daniel's jack|||
+|20|1374|2302181|daniel's jack|Daniel|Esteves|
 |21|1348|2301855|Mattoon|Matti|Roche|
 |22|1348|2201699|Chris FPV|Christophe|Juanole|
 |23|1327|2101626|Debaz|Maxime |CAVICCHI|
