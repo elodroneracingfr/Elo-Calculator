@@ -5,7 +5,30 @@ Ce projet propose un outil de classement basé sur un classement Elo applicable 
 
 |#|ELO|LICENCE|PSEUDO|PRENOM|NOM DE FAMILLE|
 |:-|:-|:-:|:-:|:-:|:-:|
-|1   |
+|01|1882|2102235|AVALT|Arthur|VALTIER|
+|02|1869|1701954|FENOMAN|Bailleau|GUILLAUME|
+|03|1845|1303854|PASTIS|Dorian|COUAILLES|
+|04|1838|1401260|KILLIAN|Killian|ROUSSEAU|
+|05|1792|2000421|AVASSIN|Lucas|BEAUDOUIN|
+|06|1789|1702320|YAYOU|Swan|VERSMISSEN|
+|07|1750|1900076|BEAR RACER|Arthur|POLI|
+|08|1723|1700078|SUPER EWEN|Ewen|GOIN|
+|09|1685|1803004|VIOFLY|Thibault|BILLARD|
+|10|1684|2301745|MATHOU|Mathias|ALBORGHETTI|
+|11|1676|2302066|LEVIO|Thimote|LEVIONAIS|
+|12|1622|1604142|GPW|Jerome|ULRICH|
+|13|1610|1802658|SARPOON|Aurelien|DUVAL|
+|14|1595|1227815|FRALOU|Franck|ALBORGHETTI|
+|15|1546|2300281|YAKUZA_FPV|Thibaut|GIETHLEN|
+|16|1542|2301855|MATTOON|Matti|ROCHE|
+|17|1467|1802994|FRACTALFPV|Aurelien|CAMPS|
+|18|1450|2200679||Christophe|ANTOINE|
+|19|1405|2101626|DEBAZ|Maxime|CAVICCHI|
+|20|1387|2302122||Steven|COLLONGUES|
+|21|1366|1802030|20SY|Sylvain|MOGENY|
+|22|1345|2100246|RASTAPOPOULOS94|Marc|ONZON|
+|23|1288|2401714||Emilie|RISCHARD|
+|24|1276|1504811|BABA FPV|Bastien|LEDUC||
 
 # Comment ça marche
 Le système de classement Elo est une méthode qui estime la force relative d'un pilote. Dans ce système, battre un adversaire mieux classé vous donne plus de points que de battre un adversaire moins bien classé. En même temps, votre adversaire perd autant de points que vous en gagnez.
@@ -61,29 +84,31 @@ Ranking with 3 races min, K_FACTOR = 20 | USE_RACE_WEIGHT = False | USE_LOSS_LIM
 CURRENT RANKING with 3 race(s):
 |#|ELO|LICENCE|PSEUDO|PRENOM|NOM DE FAMILLE|
 |:-|:-|:-:|:-:|:-:|:-:|
-|01|1915|1401260| Darkex|Killian|ROUSSEAU|
-|02|1894|2102235|Avalt|Arthur|VALTIER|
+|01|1972|1401260| Darkex|Killian|ROUSSEAU|
+|02|1868|1700078|SUPER Ewen|Ewen|Goin|
 |03|1851|1603508|TRINX|Tristan|Goin|
-|04|1812|1303854|DRN FPV|Dorian|COUAILLES |
-|05|1791|1700078|SUPER Ewen|Ewen|Goin|
+|04|1837|2102235|Avalt|Arthur|VALTIER|
+|05|1822|1303854|DRN FPV|Dorian|COUAILLES |
 |06|1786|1702320|Yayou|Swan|VERSMISSEN|
 |07|1775|2202387|Ed Fpv|Edwin|HO A CHUCK|
-|08|1751|2000421|Avassin|Lucas|BEAUDOUIN|
-|09|1729|1900076|Bear Racer|Arthur|POLI|
-|10|1697|1701954|FENOMAN|Bailleau|Guillaume|
-|11|1656|2202173|Oliv|Olivier|MYLLE|
-|12|1650|1803004|VioFly|Thibault|Billard|
-|13|1499|1802994|FractalFPV|Aurelien|Camps|
-|14|1495|1604142|GPW|Jerome|Ulrich|
-|15|1484|1227815|Fralou|Franck|Alborghetti|
-|16|1469|2101626|Debaz|Maxime |CAVICCHI|
-|17|1442|2301745|Mathou|Mathias|Alborghetti|
-|18|1425|2301934|DRK|goin|stephane|
-|19|1417|2300281|Yakuza_FPV|Thibaut|Giethlen|
-|20|1402|1802030|20SY|Sylvain|Mogeny|
-|21|1348|2201699|Chris FPV|Christophe|Juanole|
-|22|1325|2201470|Ustrici|Romain|VALTIER|
-|23|1323|2100246|Rastapopoulos94 |Marc|ONZON|
-|24|1323|1603392|STARZ91|Boisselier|Vincent|
-|25|1296|2301855|Mattoon|Matti|Roche|
-|26|1210|1504811|Baba fpv|Bastien|Leduc|
+|08|1765|1803004|VioFly|Thibault|Billard|
+|09|1750|1900076|Bear Racer|Arthur|POLI|
+|10|1723|2000421|Avassin|Lucas|BEAUDOUIN|
+|11|1671|1701954|FENOMAN|Bailleau|Guillaume|
+|12|1663|1802994|FractalFPV|Aurelien|Camps|
+|13|1656|2202173|Oliv|Olivier|MYLLE|
+|14|1521|1604142|GPW|Jerome|Ulrich|
+|15|1513|2301745|Mathou|Mathias|Alborghetti|
+|16|1495|1227815|Fralou|Franck|Alborghetti|
+|17|1444|2301934|DRK|goin|stephane|
+|18|1407|2100578|U FPV|Pichon|Jules|
+|19|1391|1802030|20SY|Sylvain|Mogeny|
+|20|1374|2302181|daniel's jack|||
+|21|1348|2301855|Mattoon|Matti|Roche|
+|22|1348|2201699|Chris FPV|Christophe|Juanole|
+|23|1327|2101626|Debaz|Maxime |CAVICCHI|
+|24|1323|2100246|Rastapopoulos94 |Marc|ONZON|
+|25|1323|1603392|STARZ91|Boisselier|Vincent|
+|26|1319|2300281|Yakuza_FPV|Thibaut|Giethlen|
+|27|1251|1504811|Baba fpv|Bastien|Leduc|
+|28|1226|2201470|Ustrici|Romain|VALTIER|

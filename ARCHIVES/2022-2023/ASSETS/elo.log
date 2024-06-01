@@ -1,0 +1,272 @@
+DEBUG:root:[2024-06-01 15:22:26] Welcome to the ELO CALCULATOR !! v2.0
+DEBUG:root:[2024-06-01 15:22:26] Connecting to DB : database.db
+DEBUG:root:[2024-06-01 15:22:30] Adding list of files
+DEBUG:root:[2024-06-01 15:22:34] Missing required field in row: {'Rank': '5', 'LicenseNumber': '', 'FirstName': 'David', 'LastName': 'Muller', 'Pseudo': 'Nitro FPV'}
+DEBUG:root:[2024-06-01 15:22:34] Missing required field in row: {'Rank': '26', 'LicenseNumber': '', 'FirstName': '', 'LastName': '', 'Pseudo': 'Fred44'}
+DEBUG:root:[2024-06-01 15:22:34] Missing required field in row: {'Rank': '31', 'LicenseNumber': '', 'FirstName': 'Alexis', 'LastName': 'Nivesse', 'Pseudo': 'AlixFPV'}
+DEBUG:root:[2024-06-01 15:22:35] Missing required field in row: {'Rank': '7', 'LicenseNumber': '', 'FirstName': '', 'LastName': '', 'Pseudo': 'valracer'}
+DEBUG:root:[2024-06-01 15:22:35] Missing required field in row: {'Rank': '10', 'LicenseNumber': '', 'FirstName': '', 'LastName': '', 'Pseudo': 'kerabean fpv'}
+DEBUG:root:[2024-06-01 15:22:35] Missing required field in row: {'Rank': '13', 'LicenseNumber': '', 'FirstName': '', 'LastName': '', 'Pseudo': 'drone racer'}
+DEBUG:root:[2024-06-01 15:22:35] All files added
+DEBUG:root:[2024-06-01 15:22:42] Calculating ranking with given races
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot :  Darkex = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Avalt = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Avassin = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Yayou = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Ed Fpv = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Oliv = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Power Polo = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : janlebelg = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : DRN FPV = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Debaz = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Rastapopoulos94  = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Ustrici = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Sarpoon = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Cissou = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : DaddyMeca = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Bear Racer = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : SUPER Ewen = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : DRK = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : GPW = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : FractalFPV = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : VioFly = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : 20SY = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : TRINX = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Mathou = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Fralou = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Mattoon = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : FENOMAN = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Chris FPV = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : AurelTribe = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Judoor = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Zetox = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Yakuza_FPV = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Meriadeg = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Nico23 = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Tim = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : ChouKa = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : arnaud = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Tremblito = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Baba fpv = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : Jorropo = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : U FPV = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : DM92 = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : STARZ91 = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : daniel's jack = 1500
+DEBUG:root:[2024-06-01 15:22:42] Resetting Elo for Pilot : stator = 1500
+DEBUG:root:[2024-06-01 15:22:42] ENTERING RACE : LIMOUZI_RACE_1
+DEBUG:root:[2024-06-01 15:22:42] New Elo for Pilot Darkex = 1650.0
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotAvalt = 1630.0
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotAvassin = 1610.0
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotYayou = 1590.0
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotEd Fpv = 1570.0
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotOliv = 1550.0
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotPower Polo = 1530.0
+DEBUG:root:[2024-06-01 15:22:42] New Elo for Pilotjanlebelg = 1510.0
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotDRN FPV = 1490.0
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotDebaz = 1470.0
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotRastapopoulos94  = 1450.0
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotUstrici = 1430.0
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotSarpoon = 1410.0
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotCissou = 1390.0
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotDaddyMeca = 1370.0
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotBear Racer = 1350.0
+DEBUG:root:[2024-06-01 15:22:42] ENTERING RACE : DRP_RACE_1
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotAvalt = 1707.3317039346532
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotSUPER Ewen = 1603.5763383958952
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotDRK = 1583.5763383958952
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotEd Fpv = 1608.0058911832896
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotGPW = 1543.5763383958952
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotFractalFPV = 1523.5763383958952
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotVioFly = 1503.5763383958952
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotUstrici = 1438.8990209231058
+DEBUG:root:[2024-06-01 15:22:42] New Elo for Pilot20SY = 1463.5763383958952
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotTRINX = 1443.5763383958952
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotMathou = 1423.5763383958952
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotFralou = 1403.5763383958952
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotMattoon = 1383.5763383958952
+DEBUG:root:[2024-06-01 15:22:42] ENTERING RACE : DRP_RACE_2
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotAvalt = 1772.9963877586847
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotSUPER Ewen = 1685.3600620891089
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotFENOMAN = 1603.1467311552467
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotEd Fpv = 1648.1056166646192
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotVioFly = 1565.2641475494038
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotTRINX = 1509.5231557459174
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotDRK = 1573.0838986117471
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotFralou = 1445.08681784859
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotGPW = 1509.000588977226
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotFractalFPV = 1477.1110429355058
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotMathou = 1397.3937608970182
+DEBUG:root:[2024-06-01 15:22:42] New Elo for Pilot20SY = 1401.5155832498522
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotUstrici = 1366.700318727348
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotMattoon = 1312.5651566344852
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotChris FPV = 1363.1467311552467
+DEBUG:root:[2024-06-01 15:22:42] ENTERING RACE : NAONED 1
+DEBUG:root:[2024-06-01 15:22:42] New Elo for Pilot Darkex = 1828.5569598041045
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotAvalt = 1857.703086249685
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotAvassin = 1777.1438331549207
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotYayou = 1752.068171268284
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotSUPER Ewen = 1760.3432628953617
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotTRINX = 1694.1631647666818
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotBear Racer = 1632.9928761211368
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotDRN FPV = 1650.0161495278724
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotEd Fpv = 1667.9732346928158
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotFralou = 1599.992679156058
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotMathou = 1567.7445681652875
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotVioFly = 1586.2384507526267
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotAurelTribe = 1552.1465379248364
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotJudoor = 1532.1465379248364
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotZetox = 1512.1465379248364
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotFractalFPV = 1487.233135958683
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotDebaz = 1465.6718979509756
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotRastapopoulos94  = 1441.1431979521637
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotYakuza_FPV = 1432.1465379248364
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotMeriadeg = 1412.1465379248364
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotUstrici = 1358.534178766414
+DEBUG:root:[2024-06-01 15:22:42] New Elo for Pilotjanlebelg = 1374.2640079350886
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotNico23 = 1352.1465379248364
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotTim = 1332.1465379248364
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotChouKa = 1312.1465379248364
+DEBUG:root:[2024-06-01 15:22:42] New Elo for Pilotarnaud = 1292.1465379248364
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotTremblito = 1272.1465379248364
+DEBUG:root:[2024-06-01 15:22:42] New Elo for PilotBaba fpv = 1252.1465379248364
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotJorropo = 1232.1465379248364
+DEBUG:root:[2024-06-01 15:22:43] ENTERING RACE : FFR_3
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotSUPER Ewen = 1820.5761101984087
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotBear Racer = 1717.2907592769534
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotVioFly = 1669.2760619186627
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotFENOMAN = 1659.2982716746571
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotOliv = 1608.0806842673167
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotU FPV = 1559.0781335484412
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotDRK = 1581.5451388754238
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotMathou = 1558.420792669965
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotFralou = 1557.4204947145604
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotDebaz = 1459.0117470397165
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotYakuza_FPV = 1419.0602657065585
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotRastapopoulos94  = 1404.4592125225204
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotChris FPV = 1336.1761972971958
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotDM92 = 1399.0781335484412
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotSTARZ91 = 1379.0781335484412
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotBaba fpv = 1199.9472329582604
+DEBUG:root:[2024-06-01 15:22:43] ENTERING RACE : FFR_4
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotAvassin = 1822.7477531427346
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotBear Racer = 1756.8888642225156
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotOliv = 1656.9028550522628
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotFENOMAN = 1673.9463391628003
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotMathou = 1581.42874658747
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotVioFly = 1641.2472922884563
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotFralou = 1540.7162546027719
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotRastapopoulos94  = 1410.5239350766658
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotYakuza_FPV = 1401.2677844728535
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotBaba fpv = 1210.3680743926982
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotDebaz = 1390.337359926865
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotChris FPV = 1279.2102942731935
+DEBUG:root:[2024-06-01 15:22:43] ENTERING RACE : DRP_RACE_3
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotDRN FPV = 1715.2972454286732
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotEd Fpv = 1708.539258344751
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotGPW = 1574.4671273207875
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotMathou = 1605.7997939786512
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotVioFly = 1628.8805251101237
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotFractalFPV = 1499.018834149312
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotFralou = 1516.914168216832
+DEBUG:root:[2024-06-01 15:22:43] New Elo for Pilot20SY = 1397.08496536991
+DEBUG:root:[2024-06-01 15:22:43] New Elo for Pilotdaniel's jack = 1448.0865607307903
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotMattoon = 1289.5211031390115
+DEBUG:root:[2024-06-01 15:22:43] New Elo for Pilotstator = 1408.0865607307903
+DEBUG:root:[2024-06-01 15:22:43] ENTERING RACE : DRP_RACE_4
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotDRN FPV = 1762.963542324156
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotEd Fpv = 1737.6697145125843
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotMathou = 1639.1648356658613
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotVioFly = 1636.5384503041287
+DEBUG:root:[2024-06-01 15:22:43] New Elo for Pilotdaniel's jack = 1481.0984024730046
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotFractalFPV = 1499.4456140890402
+DEBUG:root:[2024-06-01 15:22:43] New Elo for Pilot20SY = 1402.008254510307
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotMattoon = 1296.1800743762133
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotGPW = 1495.7232840975114
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotFralou = 1432.8174094360359
+DEBUG:root:[2024-06-01 15:22:43] ENTERING RACE : FAI_MACON
+DEBUG:root:[2024-06-01 15:22:43] New Elo for Pilot Darkex = 1915.1202837341825
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotTRINX = 1809.9590537437857
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotAvalt = 1894.5938533571325
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotDRN FPV = 1812.8605163535951
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotYayou = 1786.0001939555518
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotSUPER Ewen = 1809.871813273408
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotFENOMAN = 1697.449649419495
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotBear Racer = 1729.031281716844
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotAvassin = 1751.2966082404282
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotSarpoon = 1463.888335489802
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotVioFly = 1594.245749214462
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotFralou = 1440.191146172583
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotSTARZ91 = 1381.2889657597325
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotDRK = 1499.6701753442537
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotUstrici = 1325.9441858881412
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotMathou = 1495.8803260722775
+DEBUG:root:[2024-06-01 15:22:43] ENTERING RACE : FFR_5
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotTRINX = 1851.6852223153694
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotEd Fpv = 1775.3795300273853
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotVioFly = 1650.774574389009
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotSUPER Ewen = 1791.615654297884
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotDebaz = 1469.4163413790839
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotFralou = 1484.2227766819203
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotChris FPV = 1348.3545640979505
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotYakuza_FPV = 1417.1057627663931
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotU FPV = 1506.2151145477114
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotMathou = 1442.6044337064075
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotDRK = 1425.2109439747921
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotSTARZ91 = 1323.0206529890345
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotRastapopoulos94  = 1323.5888802181646
+DEBUG:root:[2024-06-01 15:22:43] ENTERING RACE : CHAMPIONNAT_FRANCE_2023
+DEBUG:root:[2024-06-01 15:22:43] New Elo for Pilot Darkex = 1972.5085174710462
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotSUPER Ewen = 1868.6144550001777
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotVioFly = 1765.1586899882413
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotFractalFPV = 1663.9619716590103
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotDRN FPV = 1822.257702207249
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotBear Racer = 1750.144414259205
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotAvalt = 1837.7778587379348
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotAvassin = 1723.549771751696
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotFENOMAN = 1671.616798557402
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotMathou = 1513.5600819380447
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotGPW = 1521.9895015086254
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotFralou = 1495.8841487968796
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotDRK = 1444.0725449454621
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotMattoon = 1348.4954911729494
+DEBUG:root:[2024-06-01 15:22:43] New Elo for Pilot20SY = 1391.2180359261993
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotBaba fpv = 1251.172787023226
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotU FPV = 1407.5456792728558
+DEBUG:root:[2024-06-01 15:22:43] New Elo for Pilotdaniel's jack = 1374.2219792563887
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotYakuza_FPV = 1319.610057984105
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotDebaz = 1327.9906217831706
+DEBUG:root:[2024-06-01 15:22:43] New Elo for PilotUstrici = 1226.9345751519259
+DEBUG:root:[2024-06-01 15:22:43] Done Calculating
+DEBUG:root:[2024-06-01 15:22:52] CURRENT RANKING with 3 race(s):
+DEBUG:root:[2024-06-01 15:22:52] |#|ELO|LICENCE|PSEUDO|PRENOM|NOM DE FAMILLE|
+DEBUG:root:[2024-06-01 15:22:52] |:-|:-|:-:|:-:|:-:|:-:|
+DEBUG:root:[2024-06-01 15:22:52] |01|1972|1401260| Darkex|Killian|ROUSSEAU|
+DEBUG:root:[2024-06-01 15:22:52] |02|1868|1700078|SUPER Ewen|Ewen|Goin|
+DEBUG:root:[2024-06-01 15:22:52] |03|1851|1603508|TRINX|Tristan|Goin|
+DEBUG:root:[2024-06-01 15:22:52] |04|1837|2102235|Avalt|Arthur|VALTIER|
+DEBUG:root:[2024-06-01 15:22:52] |05|1822|1303854|DRN FPV|Dorian|COUAILLES |
+DEBUG:root:[2024-06-01 15:22:52] |06|1786|1702320|Yayou|Swan|VERSMISSEN|
+DEBUG:root:[2024-06-01 15:22:52] |07|1775|2202387|Ed Fpv|Edwin|HO A CHUCK|
+DEBUG:root:[2024-06-01 15:22:52] |08|1765|1803004|VioFly|Thibault|Billard|
+DEBUG:root:[2024-06-01 15:22:52] |09|1750|1900076|Bear Racer|Arthur|POLI|
+DEBUG:root:[2024-06-01 15:22:52] |10|1723|2000421|Avassin|Lucas|BEAUDOUIN|
+DEBUG:root:[2024-06-01 15:22:52] |11|1671|1701954|FENOMAN|Bailleau|Guillaume|
+DEBUG:root:[2024-06-01 15:22:52] |12|1663|1802994|FractalFPV|Aurelien|Camps|
+DEBUG:root:[2024-06-01 15:22:52] |13|1656|2202173|Oliv|Olivier|MYLLE|
+DEBUG:root:[2024-06-01 15:22:52] |14|1521|1604142|GPW|Jerome|Ulrich|
+DEBUG:root:[2024-06-01 15:22:52] |15|1513|2301745|Mathou|Mathias|Alborghetti|
+DEBUG:root:[2024-06-01 15:22:52] |16|1495|1227815|Fralou|Franck|Alborghetti|
+DEBUG:root:[2024-06-01 15:22:52] |17|1444|2301934|DRK|goin|stephane|
+DEBUG:root:[2024-06-01 15:22:52] |18|1407|2100578|U FPV|Pichon|Jules|
+DEBUG:root:[2024-06-01 15:22:52] |19|1391|1802030|20SY|Sylvain|Mogeny|
+DEBUG:root:[2024-06-01 15:22:52] |20|1374|2302181|daniel's jack|||
+DEBUG:root:[2024-06-01 15:22:52] |21|1348|2301855|Mattoon|Matti|Roche|
+DEBUG:root:[2024-06-01 15:22:52] |22|1348|2201699|Chris FPV|Christophe|Juanole|
+DEBUG:root:[2024-06-01 15:22:52] |23|1327|2101626|Debaz|Maxime |CAVICCHI|
+DEBUG:root:[2024-06-01 15:22:52] |24|1323|2100246|Rastapopoulos94 |Marc|ONZON|
+DEBUG:root:[2024-06-01 15:22:52] |25|1323|1603392|STARZ91|Boisselier|Vincent|
+DEBUG:root:[2024-06-01 15:22:52] |26|1319|2300281|Yakuza_FPV|Thibaut|Giethlen|
+DEBUG:root:[2024-06-01 15:22:52] |27|1251|1504811|Baba fpv|Bastien|Leduc|
+DEBUG:root:[2024-06-01 15:22:52] |28|1226|2201470|Ustrici|Romain|VALTIER|
+DEBUG:root:[2024-06-01 15:23:32] Finished calculating rankings... Exiting !
