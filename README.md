@@ -1,3 +1,4 @@
+
 # Bienvenue sur le Calculateur de Classement ELO FFAM
 Ce projet propose un outil de classement basé sur un classement Elo applicable aux pilotes de course de drone français participant à la coupe de France de Drone Racing.
 
@@ -64,25 +65,27 @@ Le facteur K a été arbitrairement choisi a 20. Il prend généralement des val
 
 # Où trouver le classement actuel ? 
 Le classement est disponible sur ce repo github, à cette adresse : *TODO: add email*
-Le classement est également mis à jour sur le site du groupe de travail drone sport à cette adresse : *TODO: add site*
+Le classement est également mis à jour sur le site du groupe de travail drone sport à cette adresse : [drone-sport-france](https://sites.google.com/view/drone-sport-france/accueil)
 
 # Comment soumettre les résultats d'une course
 Une fois votre course terminée, veuillez suivre les étapes suivantes pour soumettre les résultats :
 
-1. Remplissez le [fichier CSV]*TODO: add link* avec l'ensemble des détails de la course et de chaque pilote. 
+1. Remplissez le [template CSV](https://github.com/elodroneracingfr/Elo-Calculator/blob/main/ASSETS/TEMPLATE/YEAR-MONTH-DAY-RACE_NAME.csv) avec l'ensemble des détails de la course et de chaque pilote. 
 2. Soumettez le fichier CSV rempli à l'adresse suivante : *TODO: add email*
 
 # Où télécharger le fichier csv vide pour soumettre les résultats
-[Le template CSV à remplir est disponible ici]*TODO: add link*
-Le template est disponible dans ASSETS/TEMPLATEYEAR-MONTH-DAY-RACE_NAME.csv
+Le template est disponible dans [ASSETS/TEMPLATEYEAR-MONTH-DAY-RACE_NAME.csv](https://github.com/elodroneracingfr/Elo-Calculator/blob/main/ASSETS/TEMPLATE/YEAR-MONTH-DAY-RACE_NAME.csv)
 
 # Comment utiliser l'outil
 
 # Archives
-## 2022-2023
+<details>
+<summary>2022-2023</summary>
+<br>
 Ranking with 3 races min, K_FACTOR = 20 | USE_RACE_WEIGHT = False | USE_LOSS_LIMITER = False
 
 CURRENT RANKING with 3 race(s):
+
 |#|ELO|LICENCE|PSEUDO|PRENOM|NOM DE FAMILLE|
 |:-|:-|:-:|:-:|:-:|:-:|
 |01|1972|1401260|Darkex|Killian|ROUSSEAU|
@@ -113,3 +116,13 @@ CURRENT RANKING with 3 race(s):
 |26|1319|2300281|Yakuza_FPV|Thibaut|Giethlen|
 |27|1251|1504811|Baba fpv|Bastien|Leduc|
 |28|1226|2201470|Ustrici|Romain|VALTIER|
+</details>
+
+
+
+
+
+
+
+
+
